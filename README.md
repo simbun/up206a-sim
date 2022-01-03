@@ -7,5 +7,6 @@ The learning objective for the course centers around students being able to "cri
 ### Assignments
 There will be **7 to 10** individual assignments, **4** group assignments, **1** mid-term (report & presentation), and **1** final (report & presentation).
 ## Project ideas
-
+I am not sure what kind of projects I am want to work on yet.
 ## Objective for the class
+I would
