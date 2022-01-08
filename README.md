@@ -7,6 +7,6 @@ The learning objective for the course centers around students being able to "cri
 ### Assignments
 There will be **7 to 10** individual assignments, **4** group assignments, **1** mid-term (report & presentation), and **1** final (report & presentation).
 ## Project ideas
-I am not sure what kind of projects I am want to work on yet. I think I may be interested in mapping financial insitutions such as banks, check-cashing stores, CDFIs, and credit unions in low-income areas.
+I am not sure what kind of project I am want to work on yet. I think I may be interested in mapping financial insitutions such as banks, check-cashing stores, CDFIs, and credit unions in low-income areas.
 ## Objective for the class
 My objectives are to learn the basics of coding and become better at geoprocessing and spatial analytical methods! By the end of this class I want to be able to create a map that tells a succinct story.
