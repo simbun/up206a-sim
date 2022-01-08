@@ -9,4 +9,4 @@ There will be **7 to 10** individual assignments, **4** group assignments, **1**
 ## Project ideas
 I am not sure what kind of project I am want to work on yet. I think I may be interested in mapping financial insitutions such as banks, check-cashing stores, CDFIs, and credit unions in low-income areas.
 ## Objective for the class
-My objectives are to learn the basics of coding and become better at geoprocessing and spatial analytical methods! By the end of this class I want to be able to create a map that tells a succinct story.
+My objectives are to learn the basics of coding and become better at geoprocessing and spatial analysis! By the end of this class I want to be able to create a map that tells a succinct story.
