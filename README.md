@@ -7,8 +7,8 @@ The learning objective for the course centers around students being able to "cri
 ### Assignments
 There will be **7 to 10** individual assignments, **4** group assignments, **1** mid-term (report & presentation), and **1** final (report & presentation).
 ## Project ideas
-Map of financial insitutions such as banks, check-cashing stores, CDFIs, and credit unions
-Map of affordable housing developments in San Jose, CA and property value
-Map of small businesses and small business development centers
+- Map of financial insitutions such as banks, check-cashing stores, CDFIs, and credit unions
+- Map of affordable housing developments in San Jose, CA and property value
+- Map of small businesses and small business development centers
 ## Objective for the class
 My objectives are to learn the basics of coding and become better at geoprocessing and spatial analysis! By the end of this class I want to be able to create a map that tells a succinct story. I would like to become somewhat proficient in Python.
