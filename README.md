@@ -8,7 +8,7 @@ The learning objective for the course centers around students being able to "cri
 There will be **7 to 10** individual assignments, **4** group assignments, **1** mid-term (report & presentation), and **1** final (report & presentation).
 ## Project ideas
 - Map of financial insitutions such as banks and bank-owned atms
-- Map of CRA bank ratings and check-cashing stores
+- Map of CRA bank ratings in area and prevalence of check-cashing stores
 - Map of affordable housing developments in San Jose, CA and property value
 - Map of small businesses and small business development centers
 ## Objective for the class
