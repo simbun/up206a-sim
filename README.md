@@ -10,6 +10,6 @@ There will be **7 to 10** individual assignments, **4** group assignments, **1**
 - Map of financial insitutions such as banks and bank-owned atms
 - Map of CRA bank ratings in area and prevalence of check-cashing stores
 - Map of big development projects in LA and rent trends 
-- Map of museums and rent trends
+- Map of income levels and nonprofit organizations
 ## Objective for the class
 My objectives are to learn the basics of coding and become better at geoprocessing and spatial analysis! By the end of this class I want to be able to create a map that tells a succinct story. I would like to become somewhat proficient in Python.
